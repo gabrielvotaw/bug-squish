@@ -1,6 +1,8 @@
 # Bug Squish
 A simple bug squishing game.<br />
+<br />
 Objective: Squish as many bugs as possible before the timer runs out!<br />
+<br />
 Requires p5.min.js.
 
 ---
