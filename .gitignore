@@ -1,8 +1,9 @@
+# ignore media files
+media/bugdrawing.png
+media/gameplay.mp4
 
-*.media.gameplay.mp4
+#ignore sprite files
+sprites
 
-*.media.bugdrawing.mp4
-
-*.sound_effects
-
-*.sprites
+#ignore sound files
+sound_effects
