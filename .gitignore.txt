@@ -1,0 +1,8 @@
+
+*.media.gameplay.mp4
+
+*.media.bugdrawing.mp4
+
+*.sound_effects
+
+*.sprites
