@@ -1,5 +1,6 @@
 # Bug Squish
 This is a quick and simple 30 second game with the objective of squishing as many bugs as possible before the timer runs out.<br />
+<br />
 Bug sprites were drawn in Microsoft Paint, and the in-game music was synthesized using tone.js.<br />
 <br />
 p5.js was used to implement the user interface, and tone.js for the sound effects and music.<br />
